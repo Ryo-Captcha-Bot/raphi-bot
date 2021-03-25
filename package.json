@@ -1,0 +1,19 @@
+{
+  "name": "raphi-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ryo-Captcha-Bot/raphi-bot.git",
+  "author": "HidekiHrk <hidekihiroki123@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0"
+  }
+}
